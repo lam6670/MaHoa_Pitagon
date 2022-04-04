@@ -1,0 +1,16 @@
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.csprojAssemblyReference.cache
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.AssemblyInfoInputs.cache
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.AssemblyInfo.cs
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.csproj.CoreCompileInputs.cache
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.exe
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.deps.json
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.runtimeconfig.json
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.runtimeconfig.dev.json
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.dll
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\ref\MaHoa.dll
+D:\Pytagon\MaHoa\MaHoa\MaHoa\bin\Debug\net5.0\MaHoa.pdb
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.dll
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\ref\MaHoa.dll
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.pdb
+D:\Pytagon\MaHoa\MaHoa\MaHoa\obj\Debug\net5.0\MaHoa.genruntimeconfig.cache
